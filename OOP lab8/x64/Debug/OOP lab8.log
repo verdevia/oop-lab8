@@ -1,0 +1,4 @@
+﻿  OOP lab8.cpp
+D:\НУПП\OOP\OOP lab8 Stefanovych\OOP lab8\OOP lab8\OOP lab8.cpp(9,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\НУПП\OOP\OOP lab8 Stefanovych\OOP lab8\OOP lab8\OOP lab8.cpp(9,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OOP lab8.vcxproj -> D:\НУПП\OOP\OOP lab8 Stefanovych\OOP lab8\x64\Debug\OOP lab8.exe
